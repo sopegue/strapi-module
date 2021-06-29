@@ -11,8 +11,8 @@ features:
   - TypeScript support
 ---
 
-<img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
-<img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
+<img src="/docs/static/preview.png" class="light-img" width="1280" height="640" alt=""/>
+<img src="/docs/static/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
 
 This module is a wrapper around [Strapi](https://strapi.io/) for [NuxtJS](https://nuxtjs.org).
 
